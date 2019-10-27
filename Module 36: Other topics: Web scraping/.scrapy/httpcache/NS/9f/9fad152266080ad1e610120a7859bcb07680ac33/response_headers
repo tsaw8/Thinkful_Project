@@ -1,0 +1,14 @@
+Server: nginx
+Date: Sun, 27 Oct 2019 23:36:47 GMT
+Content-Type: text/plain; charset=utf-8
+X-Hacker: If you're reading this, you should visit wpvip.com/careers and apply to join the fun, mention this header.
+X-Powered-By: WordPress.com VIP <https://wpvip.com>
+Link: <https://fivethirtyeight.com/wp-json/>; rel="https://api.w.org/"
+Content-Encoding: gzip
+X-Rq: dfw1 102 67 3085
+Cache-Control: max-age=300, must-revalidate
+Age: 1844
+X-Cache: grace
+Vary: Accept-Encoding
+Accept-Ranges: bytes
+Strict-Transport-Security: max-age=63072000;includeSubdomains;preload

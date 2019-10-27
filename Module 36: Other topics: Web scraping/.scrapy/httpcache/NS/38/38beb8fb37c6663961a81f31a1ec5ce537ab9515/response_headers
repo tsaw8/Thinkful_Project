@@ -1,0 +1,15 @@
+Server: nginx
+Date: Sun, 27 Oct 2019 23:36:55 GMT
+Content-Type: text/html; charset=UTF-8
+X-Hacker: If you're reading this, you should visit wpvip.com/careers and apply to join the fun, mention this header.
+X-Powered-By: WordPress.com VIP <https://wpvip.com>
+Link: <https://fivethirtyeight.com/wp-json/>; rel="https://api.w.org/"
+Content-Security-Policy-Report-Only: default-src https: data: 'self' 'unsafe-inline' 'unsafe-eval'; report-uri https://fivethirtyeight.report-uri.io/r/default/csp/reportOnly
+Content-Encoding: gzip
+X-Rq: dfw1 102 67 3085
+Cache-Control: max-age=300, must-revalidate
+Age: 0
+X-Cache: miss
+Vary: Accept-Encoding
+Accept-Ranges: bytes
+Strict-Transport-Security: max-age=63072000;includeSubdomains;preload
